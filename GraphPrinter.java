@@ -3,6 +3,8 @@ import java.util.*;
 import java.awt.*;
 import java.awt.event.*;
 
+//Hello!
+
 public class GraphPrinter extends Canvas implements MouseListener{
   
   JFrame frame = new JFrame();
